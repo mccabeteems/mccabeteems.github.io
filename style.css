@@ -1,0 +1,38 @@
+body {
+	background-color: #1f1b19;
+}
+
+h1 {
+	color:rosybrown;
+	
+}
+
+h2 {
+	color: rosybrown;
+}
+
+p {
+	color: rosybrown;
+}
+
+img{
+	border: 5px solid rosybrown;
+	
+}
+
+ul.a {
+  list-style-type: circle;
+}
+
+ul li {
+  color: rosybrown;
+}
+
+plainlink {
+	text-decoration: none;
+	color: rosybrown;
+	}
+
+plainlink:hover {
+	text-decoration: underline;
+	}	
