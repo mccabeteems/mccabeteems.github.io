@@ -32,6 +32,16 @@ ul li {
   color: rosybrown;
 }
 
+a:link {
+				color: indianred;
+			}
+			a:visited {
+				color: palevioletred;
+			}
+			a:hover {
+				color: peachpuff;
+			}
+
 plainlink {
 	text-decoration: none;
 	color: rosybrown;
