@@ -12,7 +12,9 @@ h2 {
 }
 
 h3 {
-	color: rosybrown
+	color: rosybrown ;
+	font-size: large;
+
 }
 
 p {
