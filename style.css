@@ -36,10 +36,10 @@ ul li {
 }
 
 a:link {
-				color: indianred;
+				color: #CCF5AC;
 			}
 			a:visited {
-				color: palevioletred;
+				color: #CCF5AC;
 			}
 			a:hover {
 				color: peachpuff;
