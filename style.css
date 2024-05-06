@@ -3,27 +3,27 @@ body {
 }
 
 h1 {
-	color:rosybrown;
+	color:#CCF5AC;
 	font-size: xx-large;
 	
 }
 
 h2 {
-	color: rosybrown;
+	color: #CCF5AC;
 }
 
 h3 {
-	color: rosybrown ;
+	color: #CCF5AC ;
 	font-size: x-large;
 
 }
 
 p {
-	color: rosybrown;
+	color: #CCF5AC;
 }
 
 img{
-	border: 2px solid rosybrown;
+	border: 2px solid #CCF5AC;
 	
 }
 
