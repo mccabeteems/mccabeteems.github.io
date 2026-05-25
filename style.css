@@ -1,29 +1,29 @@
 body {
-	background-color: #c63b3b;
+	background-color: rosybrown;
 }
 
 h1 {
-	color:#eed027;
+	color: black;
 	font-size: xx-large;
 	
 }
 
 h2 {
-	color: #eed027;
+	color: black;
 }
 
 h3 {
-	color: #eed027 ;
+	color: black ;
 	font-size: x-large;
 
 }
 
 p {
-	color: #eed027;
+	color: black;
 }
 
 img{
-	border: 2px solid #eed027;
+	border: 2px solid black;
 	
 }
 
@@ -32,27 +32,27 @@ ul.a {
 }
 
 ul li {
-  color: #eed027;
-  list-style-type: #eed027;
+  color: black;
+  list-style-type: black;
   
 }
 
 li {
-	color: #eed027;
+	color: black;
 }
 a:link {
-				color: #eed027;
+				color: bisque;
 			}
 			a:visited {
-				color: #eed027;
+				color: maroon;
 			}
 			a:hover {
-				color: #cdc5b4;
+				color: maroon;
 			}
 
 plainlink {
 	text-decoration: none;
-	color: #eed027;
+	color: bisque;
 	}
 
 plainlink:hover {
