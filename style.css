@@ -41,18 +41,18 @@ li {
 	color: black;
 }
 a:link {
-				color: bisque;
+				color: maroon;
 			}
 			a:visited {
 				color: maroon;
 			}
 			a:hover {
-				color: maroon;
+				color: bisque;
 			}
 
 plainlink {
 	text-decoration: none;
-	color: bisque;
+	color: maroon;
 	}
 
 plainlink:hover {
